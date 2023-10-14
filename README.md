@@ -1,2 +1,2 @@
 # PYTHON-PRACTICE
-Practice for Sieg Domain
+Practicing Simple projects in python
